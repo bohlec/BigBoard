@@ -1,0 +1,1267 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"passwo",
+				"passwordGuess"
+			],
+			[
+				"topTea",
+				"topTeamIDActual"
+			],
+			[
+				"createJ",
+				"createJSONArray"
+			],
+			[
+				"create",
+				"createJSONObject"
+			],
+			[
+				"contest",
+				"contestSeasonID"
+			],
+			[
+				"groupm",
+				"groupMembership"
+			],
+			[
+				"scor",
+				"scoringSystemID"
+			],
+			[
+				"externa",
+				"externalId"
+			],
+			[
+				"URL",
+				"URLParamHash"
+			],
+			[
+				"S",
+				"SWID"
+			],
+			[
+				"render",
+				"renderDomWrapperElement"
+			],
+			[
+				"action",
+				"action_type"
+			],
+			[
+				"join",
+				"join-group-wrapper"
+			],
+			[
+				"ca",
+				"canEntryJoinGroup"
+			],
+			[
+				"join-g",
+				"join-group-table"
+			],
+			[
+				"leave",
+				"leave-group"
+			],
+			[
+				"hasE",
+				"hasEntryThatCanJoinGroup"
+			],
+			[
+				"has",
+				"hasEntryThatCanJoinGroup"
+			],
+			[
+				"time",
+				"timeToLock"
+			],
+			[
+				"scoring",
+				"scoringSystem"
+			],
+			[
+				"join-",
+				"join-group-wrapper"
+			],
+			[
+				"scorin",
+				"scoringSystem"
+			],
+			[
+				"static",
+				"staticDirectory"
+			],
+			[
+				"fore",
+				"foreign-entry"
+			],
+			[
+				"user-entries-ta",
+				"user-entries-table-wrap"
+			],
+			[
+				"get",
+				"getLanguageText"
+			],
+			[
+				"info",
+				"infoLinks"
+			],
+			[
+				"entry-univ",
+				"entry-univ-header-info"
+			],
+			[
+				"owner",
+				"owner-display"
+			],
+			[
+				"user",
+				"user_header_wrapper"
+			],
+			[
+				"redirec",
+				"redirectUrl"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"ses",
+				"sessionId"
+			],
+			[
+				"onTou",
+				"onTouchMove"
+			],
+			[
+				"is",
+				"isDailyEntry"
+			],
+			[
+				"category",
+				"categoryDetail"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"lr",
+				"lrgegreybtns"
+			],
+			[
+				"las",
+				"last-child"
+			],
+			[
+				"fac",
+				"facebookURL"
+			],
+			[
+				"game",
+				"gameDescription_OpenGraph"
+			],
+			[
+				"gamed",
+				"gameDescription_OpenGraph"
+			],
+			[
+				"cond",
+				"condensed_with_teams"
+			],
+			[
+				"scori",
+				"scoringSystem"
+			],
+			[
+				"yourEn",
+				"yourEntries"
+			],
+			[
+				"j",
+				"JSONObject"
+			],
+			[
+				"loca",
+				"localeAbbrev"
+			],
+			[
+				"load",
+				"loadScript"
+			],
+			[
+				"espn",
+				"espn_maxpart"
+			],
+			[
+				"yellow",
+				"yellowbtn-wrap"
+			],
+			[
+				"client-quiz",
+				"client-quiz-content"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"alert",
+				"alertstatus-innerwrap"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"righ",
+				"rightColumnModule"
+			],
+			[
+				"right",
+				"rightColumnModules"
+			],
+			[
+				"blink",
+				"blinking-ylw-btn"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"nav",
+				"nav-main-breadcrumbs"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"facebookLo",
+				"facebookLoginSuccess"
+			],
+			[
+				"isMobile",
+				"isMobileApp"
+			],
+			[
+				"core",
+				"coreGameSettings"
+			],
+			[
+				"engine",
+				"engineGameSettings"
+			],
+			[
+				"layo",
+				"layoutConfig"
+			],
+			[
+				"lay",
+				"layoutConfig"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"view",
+				"view_OWNERSHIP"
+			],
+			[
+				"freea",
+				"freeagency_table"
+			],
+			[
+				"free",
+				"freeagency_table"
+			],
+			[
+				"univer",
+				"universeType"
+			],
+			[
+				"maxEntries",
+				"maxEntriesPerUser"
+			],
+			[
+				"universe",
+				"universeEntry"
+			],
+			[
+				"team",
+				"team-btn"
+			],
+			[
+				"wc-round-wrap",
+				"wc-round-wrapR"
+			],
+			[
+				"country",
+				"country-rnds-wrap"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"format",
+				"formatAndAdjustDate"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 2706,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/js/main.js",
+			"settings":
+			{
+				"buffer_size": 2667,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/css/styles.css",
+			"settings":
+			{
+				"buffer_size": 275,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/index.htm",
+			"settings":
+			{
+				"buffer_size": 596,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/js/router.js",
+			"settings":
+			{
+				"buffer_size": 1008,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 481,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".jshintignore",
+			"settings":
+			{
+				"buffer_size": 78,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"Side Bar: Refresh"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"packagecon",
+				"Package Control: List Packages"
+			],
+			[
+				"stack",
+				"Stackoverflow: Search from Input"
+			],
+			[
+				"packag	",
+				"Package Control: Remove Package"
+			],
+			[
+				"ss",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 362.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/api/v4/createEntry.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/api/v4/entries.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/api/v4/objects/error.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/api/v4/entries/create.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/util/validate/validateRequest_group.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/util/api/getGroupMembership.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/tcmen/api/v1/xml/groupStandings.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/tcmen/api/v1/xml/util/printGroupMember.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/api/v3/objects/groupMember.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/api/v3/objects/entry.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/tcmen/api/v3/objects/group.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/util/api/getMyGroupMembers.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/format/user/entriesTable/entriesTableRow.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/format/modules/frontpage/frontEntryHeader.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/tcmen/api/v1/xml/groupStandingsAllOwnedEntries.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/tcmen/api/v3/group.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/tcmen/api/v3/leaders.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/runforthemoney/constants/frontEntryPoints.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/format/modules/frontpage/createEntry.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/uber/front.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/runforthemoney/frontpage.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/constants/isCelebUser.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/util/user/getUserEntries.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/render/matchups/renderMatchupClock.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/uber/util/api/getEnvironment.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/uber/util/getEntry.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/bracket/util/api/getEntryTieBreakers.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/hackathon/game.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/runforthemoney/util/group/getGroupMembers.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/bracket/util/getGames.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/streak/util/api/getGroupMembership.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/format/user/uber/renderUserUberBanner.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/util/user/userHasEntries.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/tcmen/api/v3/games.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/uber/inc/getUser.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/render/celebGroupTable.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/render/createEntry.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/copa-virtual/conversation.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/eliminator/leaderboard.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/dev/labelTest_One.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/pickem/util/locked.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/login.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/bowlmania/whopickedwhom.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/bracket/createOrUpdateEntry.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/challenge/leaders.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/leaderboard.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/bracket/format/json/jsonSocialChampLogos.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/api/v3/joinGroup.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/sharer.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/tcmen/static/app/v1/inAppMessaging.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/tcmen/config/gameConfig.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/config/getConfig.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/util/validate/validateRequest_rejoinGroups.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/util/validate/validateRequestEnvironment.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/tcmen/api/v3/builders/savePicks.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/rejoinGroups.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/bracket/static/js/prototypes/views/web/bracketBracketUI.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/bracket/util/getSocialChampLogoURLs.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/bracket/format/modules/entry/champion.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/bracket/util/getReferralID.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/bracket/util/getRegions.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/nbafinals/util/getSortedMatchupArray.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/local-rankem/util/getShellSkin.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/shell/components/gameTabs/gameTabs_group.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/util/getCreationSource.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/tcmen/static/app/v1/config/urlFormats.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/api/v1/builders/joinGroup.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/tcmen/format/json/whoPickedWhom.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/streak/util/getCreationSource.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/tcmen/api/v3/matchupPreview.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/tcmen/static/app/v1/config/loginPhotos.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/api/v3/createEntry.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/tcmen/static/app/v1/config/ads.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/tcmen/api/v3/createEntryAndSavePicks.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/tcmen/static/app/v1/startup.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/tcmen/static/app/v1/config.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/util/user/userCanCreateEntry.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/tcmen/api/v3/objects/game.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/static/ajax/matchupDetails.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/format/json/matchupDetail.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/format/ajax/matchupDetails.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/hackathon/matchups.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/uber/constants/minimumAgeToPlay.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/pickem/util/madeAllPicks.tea",
+		"/Users/bohlec/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/bohlec/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/format/modules/frontpage/whyUserCanNotCreateEntry.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/util/userHasSimilarEntry.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/render/userSettings/userSettings.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/updategroup.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/util/userCanCreateEntry_More.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/challenge/util/userCanCreateEntry_More.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/format/modules/friends/userConnected.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/usersettings.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/util/getRequestParameters.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/uber/util/getRequestParameters.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/sportsIQ/util/getRank.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/api/v3/util/printResponse.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/shell/components/isGameGated.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/mobile/api/joinGroup.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/tcmen/api/v3/builders/createEntry.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/util/getPreviousContestSeason.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/api/v3/util/createRequestMap.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/api/v3/builders/joinGroup.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/tcmen/api/v3/objects/groupMember.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/util/ownsEntry.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/util/getAppContextDetails.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/unitTests/constants/requiredProperties.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/trivia/format/renderQuizHeatGauge.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/draftem/render/renderEngineItem.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/tcmen/api/v1/xml/getAllTeams.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/streak/util/api/getAllTimeStreak.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/uber/groupAdmin.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/tcmen/api/v1/xml/getAllEntryData.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/tcmen/api/v1/xml/joinGroup.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/render/contestSeasonLabel.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/util/contestRedirect.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/uber/constants/contentId.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/util/convertInteger_Ordinal.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/util/social/getShareURL.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/util/cacheBaseURL.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/shell/components/canonicalURL.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/api/util/setFeedURLs.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/util/getGameUrlName.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/core/util/gameHomeURL.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/challenge/util/isRosterPlayerOverLimit.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/shared/challenge/util/isEntireRosterLocked.tea",
+		"/Volumes/Templates/games/MaxPart/trunk/games/uber/constants/mailbagURLAllGames.tea"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core/util",
+			"/Volumes/Templates/games/MaxPart/trunk/games/tcmen",
+			"/Volumes/Templates/games/MaxPart/trunk/shared",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/bracket",
+			"/Volumes/Templates/games/MaxPart/trunk/",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core/shell",
+			"/Volumes/Templates/games/MaxPart/trunk/games/tcmen/",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/",
+			"/Volumes/Templates/games/MaxPart/trunk/",
+			"/Volumes/Templates/games/MaxPart/trunk/games/tcmen/api/v1/",
+			"/Volumes/Templates/games/MaxPart/trunk/games/tcmen/api/v2/",
+			"/Volumes/Templates/games/MaxPart/trunk/games/tcmen/api/v1/builders",
+			"<open folders>",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/",
+			"/Volumes/Templates/games/MaxPart/trunk/",
+			"/Volumes/Templates/games/MaxPart/trunk/shared",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/soccer",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/challenge",
+			"/Volumes/Templates/games/MaxPart/trunk/shared",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core",
+			"/Volumes/Templates/games/MaxPart/trunk/shared",
+			"/Volumes/Templates/games/MaxPart/trunk",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core",
+			"/Volumes/Templates/games/MaxPart/trunk/shared",
+			"/Volumes/Templates/games/MaxPart/trunk/games/tcmen",
+			"/Volumes/Templates/games/MaxPart/trunk",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core/static/css",
+			"/Volumes/Templates/games/MaxPart/trunk/shared",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core",
+			"/Volumes/Templates/games/MaxPart/trunk/games/tcmen",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/challenge/tablerender",
+			"<project>",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/challenge",
+			"/Volumes/Templates/games/MaxPart/trunk/shared",
+			"/Volumes/Templates/games/MaxPart/trunk",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/challenge",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/playereliminator/static/css",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core/static/css",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/challenge/tablerender",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core/static/css",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core",
+			"/Volumes/Templates/games/MaxPart/branches/dev-playereliminator/shared/playereliminator/static/css/playereliminator",
+			"/Volumes/Templates/games/MaxPart/trunk/shared",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core",
+			"/Volumes/Templates/games/MaxPart/trunk/games/tcmen",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/bracket",
+			"/Volumes/Templates/games/MaxPart/trunk/shared",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core/render",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core/static/css",
+			"/Volumes/Templates/games/MaxPart/trunk/games",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core/static/css",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core/",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core/static/css",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core/static/css/core/components",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core/static/css",
+			"/Volumes/Templates/games/MaxPart/trunk/shared",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core/static/css",
+			"/Volumes/Templates/games/MaxPart/trunk",
+			"/Volumes/Templates/games/MaxPart/trunk/shared",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/soccer",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/challenge",
+			"/Volumes/Templates/games/MaxPart/trunk/shared",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/challenge/",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/challenge/",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/challenge",
+			"/Volumes/Templates/games/MaxPart/trunk/shared",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core/static/css/core",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core/static/css",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/pickem/static/css",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/pickem",
+			"/Volumes/Templates/games/MaxPart/trunk/",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core/static/css",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/pickem",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/challenge",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core/static/css",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core",
+			"/Volumes/Templates/games/MaxPart/trunk/",
+			"/Volumes/Templates/games/MaxPart/trunk/games/streak",
+			"/Volumes/Templates/games/MaxPart/trunk",
+			"/Volumes/Templates/games/MaxPart/trunk/shared",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/challenge/static/css/challenge",
+			"/Volumes/Templates/games/MaxPart/trunk",
+			"/Volumes/Templates/games/MaxPart/trunk/games/tcmen",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core",
+			"/Volumes/Templates/games/MaxPart/trunk/shared",
+			"/Volumes/Templates/games/MaxPart/trunk",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core/shell/skins/mobile/mw",
+			"/Volumes/Templates/games/MaxPart/trunk/shared",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core/shell/skins/mobile/mw",
+			"/Volumes/Templates/games/MaxPart/trunk",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core/shell/skins/mobile",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/pickem",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core/shell/skins/mobile/mw",
+			"/Volumes/Templates/games/MaxPart/trunk/games/trivia",
+			"/Volumes/Templates/games/MaxPart/trunk",
+			"/Volumes/Templates/games/MaxPart/trunk/games/trivia",
+			"/Volumes/Templates/games/MaxPart/trunk/",
+			"/Volumes/Templates/games/MaxPart/trunk/games/trivia",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core/static/css",
+			"/Volumes/Templates/games/MaxPart/trunk/games/trivia",
+			"/Volumes/Templates/games/MaxPart/trunk",
+			"/Volumes/Templates/games/MaxPart/trunk/shared",
+			"/Volumes/Templates/games/MaxPart/trunk",
+			"/Volumes/Templates/games/MaxPart/trunk/shared",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core",
+			"/Volumes/Templates/games/MaxPart/trunk",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/pickem",
+			"/Volumes/Templates/games/MaxPart/trunk/games/primetime",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/pickem",
+			"/Volumes/Templates/games/MaxPart/trunk/shared",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core/shell/components",
+			"/Volumes/Templates/games/MaxPart/trunk/shared",
+			"/Volumes/Templates/games/MaxPart/trunk/shared/core/static/css"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getmygroup",
+			"getgroupmembers",
+			"bracket_FacebookShare_Title",
+			"bracket_TwitterShare_Caption",
+			"getreferralID",
+			"MAX_ENTRY_GROUPS_REACHED",
+			"info",
+			"isgamegated",
+			"validaterequest",
+			"forwardurl",
+			"rqa.espn.go.com",
+			"\"\\\\MatchupPreviewOdds\"",
+			"\\|",
+			"proxydev.espn.go.com/tournament-challenge-bracket",
+			"groupConversation_iframe",
+			"getenvironment",
+			"parsegroupenvironment",
+			"entryIdValue",
+			"ownsEntryID(",
+			"format.xml.mobile",
+			"/v1",
+			".v1",
+			"getGames",
+			"xml",
+			".printresults",
+			"toxml",
+			"call util.getLanguageText(\"word_SignIn\", null)",
+			"getUserGroupEntries(",
+			"getusergroups",
+			"util.changeScoringSystem",
+			"util.joinGroupAndRedirect",
+			"maintenance.html",
+			"group.periodCells",
+			"util.loginRedirect",
+			"invitepastusers",
+			"getgroupmembers",
+			"getGroupListContextMethod",
+			"getgroupmembers",
+			".getDefaultGroups",
+			"util.api.getGroupList",
+			"util.api.findGroups",
+			"getgrouplistsize",
+			"setselectedentry",
+			"content",
+			"call shell.static.addJSModule(\"sponsoredLinks\", param);",
+			"savedRoster_Fail",
+			"rosterManager_SavedRoster_Fail",
+			"roster save fail",
+			".mobileURL",
+			"/m",
+			"background-color",
+			"espn.fantasy.maxpart.prototypes.core.scheduleUI",
+			"MAX_ENTRIES_REACHED",
+			"staticlogin",
+			"readurl",
+			"var mp_hacks",
+			"isIE_Mobile",
+			"joinGroup(",
+			"getGameProperty(\"enable",
+			"enableJavascriptLogging",
+			"cboverlay",
+			"getGameRepeatingBackground",
+			"repeatbg",
+			"mobileperiodselector",
+			"navigationlinks",
+			"minimumAge",
+			"13",
+			"ads",
+			"responseType",
+			"responderPage",
+			"$.",
+			"$(",
+			"$",
+			"ip_insider",
+			"mp_inst.bracket.bracketPicksToString()",
+			"insider",
+			"headertitle",
+			"getfeaturedmatchup",
+			"MISSING_PLAYERINSLOT",
+			".join-group-wrapper .message",
+			"getUniqueOpponentListForPlayerMatchups",
+			"getLastScoringPeriodUsedForPlayer",
+			"letter-spacing",
+			"letter",
+			"daily-leaders-fin",
+			"klavikac",
+			"klavika",
+			"see-all",
+			"playertable_body tr td",
+			".roster-slot {",
+			"text-transform",
+			"klavikaCond",
+			"game-boxscore-teams",
+			"player-metadata",
+			"message",
+			".foreign-entry div.links",
+			"row-select",
+			"col-select",
+			"row-sele",
+			".tablehead tr.oddrow td.oddcol-select, .tablehead tr.oddrow td.evencol-select",
+			"inlineScripts",
+			"klavika",
+			"setEntryNameAndSubscriptions",
+			"setentryname",
+			"doubleclick",
+			"\"gm\"",
+			".joinGroupLink",
+			"util/api/joinGroup",
+			"util.api.joinGroup",
+			"joingrouplink",
+			"createEntryAndJoinGroup",
+			"createEntryAndJoinGroupContextMethods",
+			"util.api.joinGroup",
+			"renderDomWrapperElement",
+			".join-group-table.group-table",
+			"altercontentlist",
+			"createEntryAndJoinGroupLink",
+			"join-group-table",
+			"leaveGroupBox",
+			"\"groupLeave\"",
+			"render.button",
+			".joinGroupLink",
+			"join-group-wrapper",
+			"en_CA",
+			"isMatchupFinalized",
+			"postmessage",
+			"join-group-wrapper",
+			".socialReveal"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"|",
+			"games.qa.espn.go.com/tcmenbb",
+			"api.v1.xml.util",
+			"/v2",
+			".v2",
+			"jQuery.",
+			"jQuery(",
+			"jQuery",
+			"div.rightColumn",
+			"div.leftColumn",
+			".fullColumn",
+			"div.teamstatus",
+			"call util.getGameKey()"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Gruntfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2706,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2629,
+								2629
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 731.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2667,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								477,
+								477
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 285.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 275,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								275,
+								275
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/index.htm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 596,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								154,
+								154
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/js/router.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1008,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								314,
+								314
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21,
+								21
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": ".jshintignore",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 78,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "BigBoard.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"frontentr",
+				"shared/core/format/modules/frontpage/frontEntryHeader.tea"
+			],
+			[
+				"getuseren",
+				"shared/core/util/user/getUserEntries.tea"
+			],
+			[
+				"getsocia",
+				"shared/bracket/util/getSocialChampLogoURLs.tea"
+			],
+			[
+				"getcreation",
+				"trunk/shared/core/util/getCreationSource.tea"
+			],
+			[
+				"usercanc",
+				"trunk/shared/core/format/modules/frontpage/whyUserCanNotCreateEntry.tea"
+			],
+			[
+				"request",
+				"trunk/games/uber/util/getRequestParameters.tea"
+			],
+			[
+				"contestseason",
+				"trunk/shared/core/util/getPreviousContestSeason.tea"
+			],
+			[
+				"ownsentryid",
+				"trunk/shared/core/util/ownsEntryID.tea"
+			],
+			[
+				"owns",
+				"trunk/shared/core/util/ownsEntry.tea"
+			],
+			[
+				"previousc",
+				"trunk/shared/core/util/getPreviousContestSeason.tea"
+			],
+			[
+				"isq",
+				"trunk/shared/core/util/isQA.tea"
+			],
+			[
+				"getregi",
+				"shared/bracket/util/getRegions.tea"
+			],
+			[
+				"region",
+				"shared/bracket/util/getRegionLocation.tea"
+			],
+			[
+				"userin",
+				"games/trivia/loadtest/util/userInGroup.tea"
+			],
+			[
+				"json",
+				"shared/core/format/json/jsonGroupList.tea"
+			],
+			[
+				"ismatchupinpr",
+				"shared/core/util/isMatchupInProgress.tea"
+			],
+			[
+				"isevent",
+				"shared/challenge/util/isEventBasedGame.tea"
+			],
+			[
+				"tsn",
+				"games/stockcar/format/xml/tsnLeaderboard.tea"
+			],
+			[
+				"tiebreakers",
+				"shared/pickem/format/modules/entry/tiebreakers.tea"
+			],
+			[
+				"tiebreaker",
+				"shared/pickem/format/modules/entry/tiebreakers.tea"
+			],
+			[
+				"additionalcontent_one",
+				"shared/pickem/format/modules/entry/additionalContent_one.tea"
+			],
+			[
+				"touch",
+				"shared/core/shell/components/touchIcon.tea"
+			],
+			[
+				"weekly",
+				"shared/challenge/util/isSS_Weekly.tea"
+			],
+			[
+				"rendershare",
+				"shared/core/format/modules/social/Facebook/renderShareButton.tea"
+			],
+			[
+				"contentpane",
+				"games/eliminator/format/modules/entry/contentPane.tea"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
